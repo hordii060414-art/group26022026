@@ -1,5 +1,0 @@
-some1
-group 26022026
-some2
-some5
-hello world
