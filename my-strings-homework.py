@@ -44,16 +44,16 @@ POEM_1 = """Як умру, то поховайте
 
 Не забудьте пом’янути
 
-Незлим тихим словом.
+Незлим тихим словом."""
 
 
 
 
 
-import poems
-import sing
+import_poems
+import_sing
 
-author_name = ""Коршун_Гордей""
+author_name = """Коршун_Гордей"""
 
 
 
