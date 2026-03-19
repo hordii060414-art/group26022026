@@ -1,0 +1,1 @@
+SIGNATURE_TEMPLATE = "Домашнє завдання виконав: {name}"
